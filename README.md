@@ -1,0 +1,3 @@
+# Bank-Management-System
+"Python-based bank system: Users create accounts, deposit, withdraw, transfer, and take loans. Admins manage accounts and bank functions."
+"This repository contains a Python-based banking system. It offers functionality for both users and administrators. Users can create accounts, deposit, withdraw, check balances, view transaction history, take loans, and transfer funds. Admins can create accounts, delete users, view account lists, check bank balances and loan amounts, and control the loan feature. The system ensures security and error handling, providing a comprehensive banking solution."
