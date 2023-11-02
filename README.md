@@ -66,7 +66,7 @@ A Python-based Banking Management System that allows users to create accounts, p
 
 ## Structure
 
-- `main.py`: The main script that runs the banking management system.
+- `Bnak_management_system.py`: The main script that runs the banking management system.
 - `README.md`: This documentation file.
 
 ## Contributing
